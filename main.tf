@@ -29,7 +29,7 @@ resource "random_string" "uniquestring" {
 }
 
 resource "azurerm_resource_group" "rg" {
-  name     = "811-d56f5042-provide-continuous-delivery-with-gith"
+  name     = "811-ad0eb383-provide-continuous-delivery-with-gith"
   location = "southcentralus"
 }
 
